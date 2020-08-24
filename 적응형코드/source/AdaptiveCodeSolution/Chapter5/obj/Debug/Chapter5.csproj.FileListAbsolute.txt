@@ -1,0 +1,7 @@
+D:\Workspace\study\적응형코드\source\AdaptiveCodeSolution\Chapter5\bin\Debug\Chapter5.exe.config
+D:\Workspace\study\적응형코드\source\AdaptiveCodeSolution\Chapter5\bin\Debug\Chapter5.exe
+D:\Workspace\study\적응형코드\source\AdaptiveCodeSolution\Chapter5\bin\Debug\Chapter5.pdb
+D:\Workspace\study\적응형코드\source\AdaptiveCodeSolution\Chapter5\obj\Debug\Chapter5.csprojAssemblyReference.cache
+D:\Workspace\study\적응형코드\source\AdaptiveCodeSolution\Chapter5\obj\Debug\Chapter5.csproj.CoreCompileInputs.cache
+D:\Workspace\study\적응형코드\source\AdaptiveCodeSolution\Chapter5\obj\Debug\Chapter5.exe
+D:\Workspace\study\적응형코드\source\AdaptiveCodeSolution\Chapter5\obj\Debug\Chapter5.pdb
